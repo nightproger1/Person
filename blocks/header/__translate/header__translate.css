@@ -1,0 +1,22 @@
+.header__translate {
+  position: absolute;
+  top: 0;
+  right: 42px;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 18px;
+}
+
+@media screen and (max-width: 768px) {
+  .header__translate {
+    right: 32px;
+    top: 16px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .header__translate {
+    right: 22px;
+    top: 16px;
+  }
+}

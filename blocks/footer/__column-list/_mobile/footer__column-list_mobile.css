@@ -1,0 +1,6 @@
+.footer__column-list_mobile {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}

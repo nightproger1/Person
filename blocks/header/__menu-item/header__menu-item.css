@@ -1,0 +1,11 @@
+.header__menu-item {
+  margin: 0 80px 0 0;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 18px;
+  text-transform: uppercase;
+}
+
+.header__menu-item:last-child {
+  margin: 0;
+}

@@ -1,0 +1,15 @@
+.logo_place_header {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 30px;
+}
+
+@media screen and (max-width: 768px) {
+  .logo_place_header {
+    position: inherit;
+    display: flex;
+    margin: auto;
+  }
+}
